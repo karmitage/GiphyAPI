@@ -1,7 +1,7 @@
 $(document).ready(function () {
 
   // Initialize an array to hold moods
-  var moods = ["sad", "angry", "happy", "over it"];
+  var moods = ["sad", "angry", "happy", "over it", "excited"];
   //initialize array to hold gifs
   var gifDiv = $("<div>");
 
